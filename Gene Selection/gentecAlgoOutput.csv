@@ -1,0 +1,3 @@
+Fitness Function,Min Fitness,Max Fitness,Mean,Median,Standard Deviation,Time Taken (s)
+,,,,,,
+knn_10_fold,98.57142857,100,99.66964286,100,0.588772846,318030.4446
